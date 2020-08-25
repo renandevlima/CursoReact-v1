@@ -4,6 +4,9 @@ body{
     text-align: center;
     font-weight: 300;
     font-size: 2rem;
+    background: #232526; 
+    background: -webkit-linear-gradient(to right, #414345, #232526);  
+    background: linear-gradient(to right, #414345, #232526); 
 }
 
 h1, h2 {
